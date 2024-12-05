@@ -1,0 +1,71 @@
+body{
+    background: rgb(201, 135, 181);
+}
+header{
+    color: #930e70;
+    text-align: center;
+    padding: auto;
+}
+h1{
+    font-size: 43px;
+}
+h3{
+    font-size: 13px;
+}
+h2{
+    font-size: 24px;
+}
+.y{
+    margin-left: 350px;
+    font-size: 34px;
+}
+
+.op{
+    display: inline-flex;
+    gap: 90px;
+    margin-left: 23;
+}
+.op1{
+    background-color: #ffffff;
+    width: 220px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.Dumbo1{
+    color: #ffffff;
+    margin-left: 120px;
+    font-size: 50px;
+}
+.pus1{
+    width: 480px;
+    height: 490px;
+    margin-left: 10;
+}
+
+.back{
+    margin-left: 1300;
+    margin-top: -87; 
+
+}
+.DF1{
+    display: inline-flex;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin-left: 504;
+    margin-top: -410;
+    color: #000000;
+}
+.dog{
+    margin-left: 20px;
+    margin-bottom: 80px;
+    width: 450px;
+    height: 450px;
+
+}
+.gok{
+    margin-left: 100px;
+}
+.lol{
+    margin-right: 200px;
+}
